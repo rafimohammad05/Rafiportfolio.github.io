@@ -1,5 +1,5 @@
 // Typing animation
-const typingText = "Cloud Developer 💻";
+const typingText = "Cloud Developer💻";
 const typingElement = document.querySelector("h2");
 
 let i = 0;
